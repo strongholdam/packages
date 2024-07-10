@@ -1,4 +1,4 @@
-# Stronghold Asset Management - Package Repository
+# Package Repository
 
 ## Overview
 
@@ -11,6 +11,13 @@ The primary objective of this repository is to:
 
 - Maintain a backup of key packages used within Stronghold Asset Management systems.
 - Ensure the availability and accessibility of these packages at all times.
+
+## Package List
+
+| Package   | Description                                                                                                              | 
+|-----------|--------------------------------------------------------------------------------------------------------------------------|
+| chromium  | Chromium is an open-source web browser project, serving as the foundation for Google Chrome.                             |
+| wkhtmltox | Wkhtmltox is a command line tool to render HTML into PDF and various image formats using the Qt WebKit rendering engine. |
 
 ## Contribution Guidelines
 
@@ -27,10 +34,4 @@ For any queries or support related to this repository, please contact the intern
 
 ## Disclaimer
 
-This repository is for backup and availability purposes only. It is not intended for public use, and any unauthorized access or usage is prohibited.
-
-Thank you for adhering to our guidelines and ensuring the security and availability of our critical systems.
-
----
-
-*This README is maintained by Stronghold Asset Management IT Department.*
+This repository is for backup and availability purposes only. It is not intended for public use.
