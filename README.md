@@ -18,6 +18,7 @@ The primary objective of this repository is to:
 |-----------|--------------------------------------------------------------------------------------------------------------------------|
 | chromium  | Chromium is an open-source web browser project, serving as the foundation for Google Chrome.                             |
 | wkhtmltox | Wkhtmltox is a command line tool to render HTML into PDF and various image formats using the Qt WebKit rendering engine. |
+| yt-dlp    | YouTube downloader videos.                                                                                               |
 
 ## Contribution Guidelines
 
