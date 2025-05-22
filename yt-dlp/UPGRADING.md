@@ -11,13 +11,10 @@ Visit the [YT-DLP Releases](https://github.com/yt-dlp/yt-dlp/releases) page to d
 If a new version is available:
 
 - **Download:** Obtain the latest release.
+- **Copy:** the downloaded version to replace the `current` file in the repository.
 - **Publish:** Commit the new version to the shared repository.
 
-## 3. Update the 'current' Version
-
-Copy the downloaded version to replace the `current` file in the repository.
-
-## 4. Update on the Server
+## 3. Update on the Server
 
 Log in to the server and run the following commands to update YT-DLP:
 
@@ -26,7 +23,7 @@ curl -L https://github.com/strongholdam/packages/raw/refs/heads/main/yt-dlp/curr
 sudo chmod a+rx /usr/local/bin/yt-dlp
 ```
 
-## 5. Verify the Update
+## 4. Verify the Update
 
 Run the command below to ensure that YT-DLP is up-to-date:
 
